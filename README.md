@@ -1,1 +1,1 @@
-# noise-transform-visualization
+# Noise Transformation Demo
